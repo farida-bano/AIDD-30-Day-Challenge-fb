@@ -1,16 +1,18 @@
-#Hi everyone#
-🚀 #Task 1 Submission for AI-Driven Development (AIDD) 30-Day Challenge#
+Hi everyone
+# 🚀 Task 1 Submission - AIDD 30-Day Challenge
 
-📄 Official Task 1 PDF: Access the File Here
+📄 **Task 1 PDF:** [Download Here](https://drive.google.com/file/d/1_JbRY2cSRE5EUh57xxsyGVmDvAU84s-b/view?usp=sharing)
 
-⏳ 48-Hour Submission Deadline from the time of announcement.
+⏳ **Deadline:** 48 hours from announcement  
+📌 **Task 2 Release:** 2 days after this submission
 
-📌 Task 2 will be released exactly 2 days after this submission.
+---
 
-For any issues accessing the file, please reach out.
+**For any issues accessing the file, please contact:**
 
-From: Asma Yaseen (Class Coordinator)
+**Asma Yaseen**  
+Class Coordinator  
+*Supervised by Sir Hamzah Syed*
 
-Supervised by: #Sir Hamzah Syed#
 
 
