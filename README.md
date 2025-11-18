@@ -15,12 +15,7 @@ Hi everyone
 - **Task 1 PDF**: [Download Here](https://drive.google.com/file/d/1ZioywBzfUogcKah6SI8lEKM2e-H7seLL/view?usp=drive_link)
 
 ---
-
-
-**For any issues accessing the file, please contact:**
-
-**Asma Yaseen**  
-Class Coordinator  
+ 
 *Supervised by Sir Hamzah Syed*
 
 
