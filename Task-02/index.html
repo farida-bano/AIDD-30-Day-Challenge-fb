@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Driven Development - Task 2</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: #7f8c8d;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+
+        .presenter {
+            background: #3498db;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 25px;
+            display: inline-block;
+            font-weight: bold;
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .section h2 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .tool-card {
+            background: #f8f9fa;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+        }
+
+        .tool-card h3 {
+            color: #2c3e50;
+            margin-bottom: 8px;
+        }
+
+        .mcq-section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+
+        .mcq-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .mcq-item {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #e74c3c;
+        }
+
+        .question {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .answer {
+            color: #27ae60;
+            font-weight: bold;
+        }
+
+        .wazahat {
+            color: #7f8c8d;
+            font-style: italic;
+            margin-top: 8px;
+            font-size: 0.9em;
+        }
+
+        .resources {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .resource-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .resource-btn {
+            background: #3498db;
+            color: white;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+        }
+
+        .resource-btn:hover {
+            background: #2980b9;
+            transform: translateY(-2px);
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: white;
+            padding: 20px;
+        }
+
+        .credits {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+            
+            .mcq-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AI-Driven Development — 30-Day Challenge</h1>
+            <div class="subtitle">Task 2: AI Tool Landscape & Python - The Language of AI Agents</div>
+            <div class="presenter">Presented by Farida Bano</div>
+        </header>
+
+        <div class="main-content">
+            <div class="section">
+                <h2>🛠️ AI Tool Landscape</h2>
+                <p>This part focuses on practical skills so that you can start using AI tools effectively.</p>
+                
+                <div class="tool-card">
+                    <h3>Claude Code</h3>
+                    <p>A command-line collaborative thinking partner by Anthropic</p>
+                </div>
+                
+                <div class="tool-card">
+                    <h3>Subagents</h3>
+                    <p>Specialized AI agents within Claude Code for specific tasks</p>
+                </div>
+                
+                <div class="tool-card">
+                    <h3>MCP Servers</h3>
+                    <p>Connect Claude Code to external data sources like databases and APIs</p>
+                </div>
+                
+                <div class="tool-card">
+                    <h3>Gemini CLI</h3>
+                    <p>Google's open-source command-line tool alternative to Claude Code</p>
+                </div>
+                
+                <div class="tool-card">
+                    <h3>Gemini 2.5 Pro</h3>
+                    <p>Features massive 1 million token context window</p>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>🐍 Python — The Language of AI Agents</h2>
+                <p>Python is the universal language of artificial intelligence. Whether you're building agentic systems, training models, or integrating AI APIs, Python is at the core of it all.</p>
+                
+                <div class="tool-card">
+                    <h3>AI-Native Learning</h3>
+                    <p>Understand concepts deeply while AI handles technical implementation</p>
+                </div>
+                
+                <div class="tool-card">
+                    <h3>Intent-First Coding</h3>
+                    <p>Express what you want to build, AI writes the code</p>
+                </div>
+                
+                <div class="tool-card">
+                    <h3>System Design Focus</h3>
+                    <p>Learn to design intelligent workflows and AI-driven applications</p>
+                </div>
+                
+                <div class="tool-card">
+                    <h3>Key Takeaway</h3>
+                    <p>Use Python as a creative and collaborative language — not just for coding, but for building intelligent systems alongside AI</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="mcq-section">
+            <h2>📝 Part 2: Modern Developer Tools MCQs</h2>
+            <div class="mcq-grid">
+                <div class="mcq-item">
+                    <div class="question">1. What does "Easy Access" refer to?</div>
+                    <div class="answer">Answer: Tools can be installed and used in minutes.</div>
+                    <div class="wazahat">Modern AI developer tools ki khaas baat yeh hai ke unhein aasani aur jaldi se install aur use kiya ja sakta hai.</div>
+                </div>
+                
+                <div class="mcq-item">
+                    <div class="question">2. What is the primary feature of Claude Code?</div>
+                    <div class="answer">Answer: It acts as a 'pair programming partner' that understands code.</div>
+                    <div class="wazahat">Claude Code ka kaam aapke saath milkar code likhna hai, jaise ek acha partner karta hai.</div>
+                </div>
+                
+                <div class="mcq-item">
+                    <div class="question">3. What is the most prominent feature of Gemini CLI?</div>
+                    <div class="answer">Answer: It has a massive 1 million token context window.</div>
+                    <div class="wazahat">Gemini CLI ki sabse badi khaas baat uska "1 million token context window" hai.</div>
+                </div>
+                
+                <div class="mcq-item">
+                    <div class="question">4. What is the primary benefit of using Git when working with AI?</div>
+                    <div class="answer">Answer: It tracks every change, allowing you to revert if a mistake is made.</div>
+                    <div class="wazahat">AI ke saath kaam karte waqt aksar code kharab ho jaata hai. Git har change ko record karta hai.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mcq-section">
+            <h2>📝 Part 4: Python - The Language of AI Agents MCQs</h2>
+            <div class="mcq-grid">
+                <div class="mcq-item">
+                    <div class="question">1. Why is Python considered the "official language" in AI world?</div>
+                    <div class="answer">Answer: Because AI agents, models, and APIs are mostly built in Python.</div>
+                    <div class="wazahat">AI ki duniya mein zyada tar tools, models, aur systems Python mein hi banaye jaate hain.</div>
+                </div>
+                
+                <div class="mcq-item">
+                    <div class="question">2. How is Python learning approach different from traditional methods?</div>
+                    <div class="answer">Answer: You learn with AI; you state the intent, AI writes the code, and you focus on understanding concepts.</div>
+                    <div class="wazahat">Yahan aap syntax ratne ki bajaye, AI ko batayenge ke aap kya banana chahte ho.</div>
+                </div>
+                
+                <div class="mcq-item">
+                    <div class="question">3. What is the key feature of UV package manager?</div>
+                    <div class="answer">Answer: It is considered the fastest Python package manager.</div>
+                    <div class="wazahat">UV package manager ki sabse badi pehchaan uski tezi hai.</div>
+                </div>
+                
+                <div class="mcq-item">
+                    <div class="question">4. What is the ultimate goal of this course?</div>
+                    <div class="answer">Answer: A Python Architect who can design systems in collaboration with AI.</div>
+                    <div class="wazahat">Course ka aakhri maqsad aapko ek aisa "Python Architect" banana hai.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="resources">
+            <h2>🔗 Resources & Links</h2>
+            <div class="resource-links">
+                <a href="https://ai-native.panaversity.org" class="resource-btn" target="_blank">Course Website</a>
+                <a href="https://drive.google.com/file/d/16pZQmG8tWyH9cTD7hpIVA_LDZnLg7aCH/view" class="resource-btn" target="_blank">Learning Materials</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSekOapdbLS-Y6e28wi-zWjU7yW2BvYZVOiEPSvlBQSXOdJcrg/viewform" class="resource-btn" target="_blank">Feedback Form</a>
+            </div>
+        </div>
+
+        <footer>
+            <div class="credits">
+                <p><strong>Prepared by:</strong> Asma Yaseen — <em>Class Coordinator (AIDD 30-Day Challenge)</em></p>
+                <p><strong>Supervised by:</strong> Sir Hamzah Syed</p>
+                <p><strong>Submitted by:</strong> Farida Bano</p>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
