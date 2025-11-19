@@ -11,7 +11,7 @@ Hi everyone
 ## 📋 Submission Details
 
 ### 📄 Task Resources
-- **Task 1 PDF**: [Download Here](https://drive.google.com/file/d/1ZioywBzfUogcKah6SI8lEKM2e-H7seLL/view?usp=drive_link)
+- **Task 1 PDF**: [Download Here](https://drive.google.com/file/d/1J2Mj8EIlVeDhp_bHK_bi70gzisvYdZMZ/view?usp=sharing)
 
 ---
  
