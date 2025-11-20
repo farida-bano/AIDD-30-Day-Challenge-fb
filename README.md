@@ -14,7 +14,14 @@ Hi everyone
 - **Task 1 PDF**: [Download Here](https://drive.google.com/file/d/1J2Mj8EIlVeDhp_bHK_bi70gzisvYdZMZ/view?usp=sharing)
 
 ---
- 
+ # 🚀 Task 3 Submission - AIDD 30-Day Challenge
+
+## 📋 Submission Details
+
+### 📄 Task Resources
+- **Task 1 PDF**: [Download Here](https://drive.google.com/file/d/1Hmoi1YA2mQLXFdC9XObyS7Sg92W6nbUM/view?usp=sharing)
+
+---
 *Supervised by Sir Hamzah Syed*
 
 
