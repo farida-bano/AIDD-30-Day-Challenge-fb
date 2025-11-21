@@ -19,7 +19,8 @@ Hi everyone
 ## 📋 Submission Details
 
 ### 📄 Task Resources
-- **Task 1 PDF**: [Download Here](https://drive.google.com/file/d/1Hmoi1YA2mQLXFdC9XObyS7Sg92W6nbUM/view?usp=sharing)
+- **Task 1 PDF**: [Download Here](https://drive.google.com/file/d/1Hmoi1YA2mQLXFdC9XObyS7Sg92W6nbUM/view?usp=sharing
+)
 
 ---
 *Supervised by Sir Hamzah Syed*
