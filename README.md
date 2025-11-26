@@ -31,6 +31,19 @@ Hi everyone
 - **Task 4 MCQs PDF**: [Download Here](https://drive.google.com/file/d/1-FC2oVoBO2qrkzIBuR3QNuFEM2h4luIW/view?usp=sharing)
 - **Task 4 Introduction PDF**: [Download Here](https://drive.google.com/file/d/1FF6jbYJPuTzhUjo5GPe0-md3Y94l6_on/view?usp=sharing)
 ---
+# 🚀 Task 5 Submission - AIDD 30-Day Challenge
+
+## 📋 Submission Details
+
+Only ovice
+
+---
+# 🚀 Task 6 Submission - AIDD 30-Day Challenge
+
+## 📋 Submission Details
+images
+
+---
 *Supervised by Sir Hamzah Syed*
 
 
