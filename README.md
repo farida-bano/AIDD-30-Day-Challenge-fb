@@ -41,7 +41,7 @@ Only ovice
 # 🚀 Task 6 Submission - AIDD 30-Day Challenge
 
 ## 📋 Submission Details
-- **Task 1 PDF**: [Download Here](https://drive.google.com/file/d/1feT4-WcLi-DO_nrA65-Z3PfcL9jS1GA5/view?usp=sharing)
+- **Task 6 PDF**: [Download Here](https://drive.google.com/file/d/1feT4-WcLi-DO_nrA65-Z3PfcL9jS1GA5/view?usp=sharing)
 
 ---
 *Supervised by Sir Hamzah Syed*
