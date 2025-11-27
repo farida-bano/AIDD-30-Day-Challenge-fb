@@ -35,7 +35,7 @@ Hi everyone
 
 ## 📋 Submission Details
 
-Only ovice
+- **Task 5 Only ovice**: [Download Here](https://discord.com/channels/1352950461883482172/1442761974214824059/1443120023995420693)
 
 ---
 # 🚀 Task 6 Submission - AIDD 30-Day Challenge
