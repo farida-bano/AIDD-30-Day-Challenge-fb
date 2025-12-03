@@ -262,19 +262,6 @@ The calculator is **ideal** for:
 - Professional workplaces
 - Personal use
 - Development learning
-
 ---
 
 
-
-**Developer:** Farida Bano  
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-*Last Updated: December 3, 2025*
