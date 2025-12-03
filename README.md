@@ -37,6 +37,12 @@ Hi everyone
 - **Task 7 PDF**: [Download Here](https://drive.google.com/file/d/1heQWMdSP6HwRUBlaueIVi1XaKdDJPj0n/view?usp=sharing)
 
 ---
+---
+# 🚀 Task 8 Submission - AIDD 30-Day Challenge
+
+- **Task 8 github**: [Download Here](https://github.com/farida-bano/AIDD-30-Day-Challenge-fb.git)
+
+---
 *Supervised by Sir Hamzah Syed*
 
 
